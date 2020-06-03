@@ -1,4 +1,4 @@
-# fincovi-assessment.
+# assessment.
 
 A new sprint boot project for the REST Endpoints of fincovi-assessment. This is now kind of monolith source repository
 but in future the end points may be separated out to different repositories.
