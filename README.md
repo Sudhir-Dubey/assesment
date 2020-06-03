@@ -1,6 +1,6 @@
 # assessment.
 
-A new sprint boot project for the REST Endpoints of fincovi-assessment. This is now kind of monolith source repository
+A new sprint boot project for the REST Endpoints to manage the Department, Employee and Language. This is now kind of monolith source repository
 but in future the end points may be separated out to different repositories.
 
 ## Dependencies
